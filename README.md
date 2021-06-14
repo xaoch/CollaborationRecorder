@@ -1,10 +1,14 @@
 # CollaborationRecorder
 A device to record and analyze collaboration.
 
+![Image of Collaboration Recorder](https://github.com/xaoch/CollaborationRecorder/blob/81713827a1e6a9cbe0dca3eb68dfcd65df902e55/CL.jpg)
+
 This repository contains the instructions and code to build a collaboration recorder.  The hardware and software are in continous evolution and this should be consider an experimental device at this moment.
 
 ## Hardware
 To build the Collaboration Recorder you will need:
+
+![Parts of the Collaboration Recorder](https://github.com/xaoch/CollaborationRecorder/blob/81713827a1e6a9cbe0dca3eb68dfcd65df902e55/CollaborationRecorder.jpg)
 
 * A [Raspberry Pi 3 or 4](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/) (Processing unit)
 * A [Respeaker circular 6-mic for Raspberry Pi](https://www.seeedstudio.com/ReSpeaker-6-Mic-Circular-Array-Kit-for-Raspberry-Pi.html) (For recording directional audio)
