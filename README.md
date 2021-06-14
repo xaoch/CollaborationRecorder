@@ -13,4 +13,10 @@ To build the Collaboration Recorder you will need:
 * (Optional) A [Battery pack for Raspberry Pi](https://www.amazon.com/SunFounder-Raspberry-Recharging-Function-Expansion/dp/B08HLXGS3W/ref=sr_1_4?dchild=1&keywords=battery%2Bpack%2Braspberry%2Bpi&qid=1623686961&sr=8-4&th=1) (For unthethered operation)
 * (Optional) Two [18650 Batteries](https://www.amazon.com/Flashlight-Rechargeable-Zoomable-Resistant-Handheld/dp/B08JLVBGVW/ref=sr_1_7?dchild=1&keywords=18650+batteries&qid=1623687454&s=hi&sr=1-7) (For unthethered operation)
 
+## Case
+
+The case for the recorder can be 3D Printed.  More information here.
+
+## Code
+
 
