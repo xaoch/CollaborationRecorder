@@ -15,7 +15,7 @@ To build the Collaboration Recorder you will need:
 
 ## Case
 
-The case for the recorder can be 3D Printed.  More information here.
+The case for the recorder can be 3D Printed.  More information [here](https://github.com/xaoch/CollaborationRecorder/tree/main/case).
 
 ## Code
 
